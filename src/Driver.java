@@ -12,7 +12,7 @@ public class Driver {
         user.setCoop(0);
         user.setFuture(0);
         user.setLocation(0);
-        user.setName("Saahil Kumar");
+        user.setName("Any_name");
         user.setNuid(0);
         user.setSchedule(new int[]{3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3});
         user.setSpec(new int[]{1, 2, 2, 1});
